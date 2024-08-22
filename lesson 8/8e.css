@@ -1,0 +1,36 @@
+.title {
+  font-size: 34px;
+  font-weight: bold;
+  margin: 5px;
+}
+.pickup {
+  font-size: 24px;
+  display: block;
+  margin: 5px;
+  padding: 5px;
+}
+.destination {
+  font-size: 24px;
+  display: block;
+  margin: 5px;
+  padding: 5px;
+}
+.request{
+    color: white;
+    background-color: black;
+    font-size: 10px;
+    padding: 10px;
+    margin: 5px;
+    border: none;
+    width: 145px;
+    
+}
+.later{
+    color: black;
+    background-color: rgb(211, 219, 225);
+    font-size: 10px;
+    padding: 10px;
+    margin: 5px;
+    border: none;
+    width: 145px;
+}
