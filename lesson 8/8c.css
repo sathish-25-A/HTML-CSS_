@@ -1,0 +1,15 @@
+.search {
+    font-size: 30px;
+    border: none;
+    width: 500px;
+    border-radius: 25px;
+    box-shadow: 3px 3px 3px rgb(29, 3, 3, 0.5);
+    margin: 10px 10px 10px 180px;
+    padding: 8px 7px 8px 7px;
+  }
+  .pic{
+    display: block;
+    margin-left: 350px;
+    margin-bottom: 10px;
+    width: 200px;
+  }
