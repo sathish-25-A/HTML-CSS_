@@ -1,0 +1,26 @@
+.cat{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50px;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+.text{
+    font-size: 25px;
+    color: rgb(183, 166, 166);
+    border:none ;
+    vertical-align: middle;
+    margin: 20px;
+}
+.btn{
+    color: white;
+    background-color: rgb(106, 106, 228);
+    margin: 10px;
+    border: none;
+    font-size: 18px;
+    padding: 8px;
+    vertical-align: middle;
+    border-radius: 18px;
+    cursor: pointer;
+}
