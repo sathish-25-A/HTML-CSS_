@@ -1,0 +1,39 @@
+.name1 {
+  font-size: 24px;
+  border: solid;
+  width: 150px;
+  border-radius: 2px;
+  border-color: black;
+  border-width: 1px;
+  margin: 20px;
+}
+.name2 {
+  font-size: 24px;
+  border: solid;
+  width: 150px;
+  border-radius: 2px;
+  border-color: black;
+  border-width: 1px;
+  margin: 20px;
+}
+.name3 {
+  display: block;
+  margin: 20px;
+  font-size: 24px;
+  width: 350px;
+  border-radius: 2px;
+  border-color: black;
+  border-width: 1px;
+  margin: 20px;
+}
+
+.btn{
+    font-size: 24px;
+    color: white;
+    background-color: rgb(83, 83, 255);
+    border: none;
+    border-radius: 12px;
+    width: 350px;
+    margin: 20px;
+    padding: 10px;
+}
