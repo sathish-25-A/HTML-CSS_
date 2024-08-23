@@ -1,0 +1,32 @@
+div {
+  width: 250px;
+  height: 400px;
+  display: inline-block;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+  margin-left: 10px;
+  margin-right: 10px;
+}
+img {
+  width: 250px;
+  height: 200px;
+  object-fit: cover;
+}
+h1 {
+  font-weight: bold;
+  padding-left: 10px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+p {
+  color: darkgrey;
+  padding-left: 10px;
+}
+button {
+  color: white;
+  background-color: blue;
+  border: none;
+  border-radius: 2px;
+  padding: 10px;
+  font-weight: bold;
+  margin-left: 70px;
+}
