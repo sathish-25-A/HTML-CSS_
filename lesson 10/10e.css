@@ -1,0 +1,53 @@
+.profile {
+  width: 200px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 15px;
+  margin-bottom: 12px;
+}
+img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  margin-bottom: 12px;
+}
+h1 {
+  font-weight: bold;
+  padding-left: 10px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+button {
+  color: white;
+  background-color: blue;
+  border: none;
+  border-radius: 2px;
+  padding: 10px;
+  font-weight: bold;
+  margin-left: 60px;
+  margin-bottom: 10px;
+}
+
+.profile-1 {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  border-radius: 20px;
+  margin-left: 10px;
+}
+.mutual-friends {
+  display: inline-block;
+  vertical-align: middle;
+  color: rgb(100, 100, 100);
+  margin-top: -40px;
+}
+
+.profile-div {
+  margin-left: 8px;
+  margin-bottom: 10px;
+}
