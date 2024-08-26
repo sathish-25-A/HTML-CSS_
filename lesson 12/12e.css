@@ -1,0 +1,22 @@
+.border{
+    
+    border: solid;
+    border-width: 1px;
+    height: 170px;
+    width: 300px;
+    border-radius: 2px;
+    box-shadow: 10px 10px 10px rgba(rgb(58, 58, 58)
+    );
+}
+
+.home{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 5px;
+
+}
+.num{
+    background-color: blue;
+    padding: 1px;
+}
